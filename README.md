@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI ChatBot website assistant and a loan and savings application<br>👯 I’m looking to collaborate on any machine learning and Deep Learning project<br>🤝 I’m looking for help with Building & Deploy an Amazing 3D website with React.js & Three.js <br>🌱 I’m currently learning Three.js<br>💬 Ask me about anything<br>⚡ Fun fact, am actually a robot
+🔭 I’m currently working on an AI ChatBot website assistant and a loan and savings application<br>👯 I’m looking to collaborate on any machine learning and Deep Learning project<br>🤝 I’m looking for help with Building & Deploy an Amazing 3D website with React.js & Three.js <br>🌱 I’m currently learning Three.js<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
